@@ -1,5 +1,9 @@
 # 📊 Airbnb vs Mairie de Paris : Analyse des Mesures Régulatrices
 
+# 📊 Airbnb vs Mairie de Paris : Analyse des Mesures Régulatrices
+
+![Technologie](https://img.shields.io/badge/Tech-Tableau-blue)
+
 ## 📌 Contexte et Problématique
 La ville de Paris fait face à une **prolifération des locations Airbnb**, soulevant plusieurs enjeux :
 - **🏨 Concurrence Déloyale** : Impact sur l'hôtellerie traditionnelle.
