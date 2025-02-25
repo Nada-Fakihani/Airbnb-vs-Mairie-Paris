@@ -53,7 +53,7 @@ La ville de Paris fait face à une **prolifération des locations Airbnb**, soul
 ---
 
 ## 📂 **Fichiers du projet**
-- 📊 **[`airbnb_vs_mairie_paris.twbx`](airbnb_vs_mairie_paris.twb)** : Fichier Tableau contenant les visualisations.
+- 📊 **[`airbnb_vs_mairie_paris.twb`](airbnb_vs_mairie_paris.twb)** : Fichier Tableau contenant les visualisations.
 - 🖼️ **[`dashboard_airbnb_vs_mairie_paris.png`](dashboard_airbnb_vs_mairie_paris.png)** : Capture du tableau final.
 - 📝 **`README.md`** : Explication complète du projet.
 
