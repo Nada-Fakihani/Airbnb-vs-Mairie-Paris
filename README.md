@@ -14,7 +14,7 @@ La ville de Paris fait face à une **prolifération des locations Airbnb**, soul
 
 ## 📊 **Méthodologie et Analyse**
 ### **📁 Données utilisées**
-- **Période** : Septembre 2022 et Septembre 2023.
+- **Période** : 2022 et 2023.
 - **Géographie** : Paris.
 - **Taille** : **173k lignes, 69 colonnes** (Données issues d'Airbnb).
 - **Indicateurs clés** : Nombre de biens, hôtes, prix moyen, licences, etc.
