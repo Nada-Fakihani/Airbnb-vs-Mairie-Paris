@@ -1,7 +1,5 @@
 # 📊 Airbnb vs Mairie de Paris : Analyse des Mesures Régulatrices
 
-# 📊 Airbnb vs Mairie de Paris : Analyse des Mesures Régulatrices
-
 ![Technologie](https://img.shields.io/badge/Tech-Tableau-blue)
 
 ## 📌 Contexte et Problématique
